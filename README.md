@@ -1,6 +1,6 @@
 # Prerequisites
 
-Make sure that your local has node, npm angular CLI installed as described on https://angular.io/guide/setup-local (Please ignore STEP 2, as it has already been taken care of in this repo)
+Make sure that your local has `node.js`, `npm` and `angular CLI` installed as described on https://angular.io/guide/setup-local (Please ignore STEP 2, as it has already been taken care of in this repo)
 
 
 ## Development server
