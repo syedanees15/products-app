@@ -9,14 +9,12 @@ import { AppComponent } from './app.component';
 import { ROUTES } from './app.routes';
 import { ProductsOverviewComponent } from './products-overview/products-overview.component';
 import { AddNewProductComponent } from './add-new-product/add-new-product.component';
-import { EditProductComponent } from './edit-product/edit-product.component';
 import { ProductsDataService } from './products-data.service';
 @NgModule({
   declarations: [
     AppComponent,
     ProductsOverviewComponent,
-    AddNewProductComponent,
-    EditProductComponent
+    AddNewProductComponent
   ],
   imports: [
     BrowserModule,
