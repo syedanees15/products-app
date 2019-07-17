@@ -15,3 +15,15 @@ Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. Th
 https://github.com/syedanees15/products-app/blob/master/src/app/products-data.service.ts can be used for this purpose
 
 - Mock data can be found in mock-products.ts
+
+
+- Please clone this repo on your local and create a new branch 
+```
+git checkout -b anees/products_list
+```
+
+- Once you are ready to submit, please push your changes to git repo and create a new pull request to master
+
+```
+git push origin anees/products_list
+```
