@@ -19,8 +19,11 @@ https://github.com/syedanees15/products-app/blob/master/src/app/products-data.se
 
 - Please clone this repo on your local and create a new branch
 ```
-git checkout -b <branch-name>
+# clone the repo
+git clone git@github.com:syedanees15/products-app.git
 
+# creating new branch in products-app directory
+git checkout -b <branch-name>
 for example:  git checkout -b anees/products_list
 ```
 
