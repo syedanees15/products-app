@@ -17,17 +17,3 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 https://github.com/syedanees15/products-app/blob/master/src/app/products-data.service.ts can be used for this purpose
 
 - Mock data can be found in mock-products.ts
-
-
-- Please clone this repo on your local and create a new branch
-```
-# once you have cloned this repo, please create new branch in products-app directory
-git checkout -b <branch-name>
-for example:  git checkout -b anees/products_list
-```
-
-- Once you are ready to submit, please push your changes to git repo and create a new pull request to master
-
-```
-git push origin <branch-name>
-```
