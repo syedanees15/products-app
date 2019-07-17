@@ -11,11 +11,8 @@ export class ProductsDataService {
 
 
   getAllProducts() {
-    // return all products here to be displayed on products overview page
   }
 
   addNewProduct(name: string, price: number = 0){
-    // const id = <random-generated-id> ;
-    // add new product to list
   }
 }
